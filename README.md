@@ -1,4 +1,6 @@
 # BIST-Project
+# Overview diagram
+<img width="354" alt="BIST overview diagram" src="https://github.com/jdleisinger/BIST-Project/assets/167725183/cbcf17bc-9bc2-4913-aef7-d9c3615ee3fb">
 # ADC board schematic
 ![Final ADC board schematic](https://github.com/jdleisinger/BIST-Project/assets/167725183/db210df3-f7be-40c5-ad4d-c98335e50310)
 # ADC board layout 3D
