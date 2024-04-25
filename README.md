@@ -1,6 +1,4 @@
 # BIST-Project
-# Overview diagram
-<img width="354" alt="BIST overview diagram" src="https://github.com/jdleisinger/BIST-Project/assets/167725183/cbcf17bc-9bc2-4913-aef7-d9c3615ee3fb">
 # ADC board schematic
 ![Final ADC board schematic](https://github.com/jdleisinger/BIST-Project/assets/167725183/db210df3-f7be-40c5-ad4d-c98335e50310)
 # ADC board layout 3D
@@ -13,3 +11,6 @@
 ![Final DAC and Amp board layout 3D](https://github.com/jdleisinger/BIST-Project/assets/167725183/8eb9b09f-bca7-45fa-a1b8-1c988bc2982c)
 # ADC board layout 2D
 ![Final DAC and Amp board layout 2D](https://github.com/jdleisinger/BIST-Project/assets/167725183/0340d4c0-d4e1-4935-9696-0b2f5ccf92b2)
+
+# Overview diagram
+<img width="354" alt="BIST overview diagram" src="https://github.com/jdleisinger/BIST-Project/assets/167725183/cbcf17bc-9bc2-4913-aef7-d9c3615ee3fb">
